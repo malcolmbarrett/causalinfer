@@ -20,3 +20,5 @@ Suggests:
     covr
 Imports: 
     magrittr
+URL: https://github.com/malcolmbarrett/causalinfer
+BugReports: https://github.com/malcolmbarrett/causalinfer/issues
